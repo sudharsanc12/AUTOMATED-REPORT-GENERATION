@@ -64,3 +64,7 @@ To let the user download the generated PDF, the buffer content is encoded in bas
 If the CSV file fails to load or parse correctly, an error message is displayed.
 
 If no file is uploaded yet, an informational message prompts the user to upload one.
+
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/f2702f1e-060a-40ff-8628-8c5ca3eb984a)
